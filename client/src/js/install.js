@@ -1,3 +1,5 @@
+// Code motivated by the PWA module of the UCB course material
+// - https://ucb.bootcampcontent.com/UCB-Coding-Bootcamp/UCB-VIRT-FSF-PT-05-2022-U-LOLC/-/tree/main/19-PWA
 const butInstall = document.getElementById('buttonInstall');
 
 window.addEventListener('beforeinstallprompt', (event) => {
