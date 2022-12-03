@@ -1,3 +1,5 @@
+// File contents largely copied from the UCB PWA module:
+// - https://ucb.bootcampcontent.com/UCB-Coding-Bootcamp/UCB-VIRT-FSF-PT-05-2022-U-LOLC/-/tree/main/19-PWA
 import { openDB } from 'idb';
 
 const initdb = async () =>
